@@ -1,0 +1,16 @@
+body {
+    background-color: orange;
+}
+
+.heading {
+    font-size: 25px;
+    width: 100%;
+    margin-top: 0px;
+}
+
+canvas {
+    border: black 5px solid;
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px darkorange;
+    margin-top: 50px;
+}
